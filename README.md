@@ -35,7 +35,7 @@ This package provides an easy way to quickly set up [AdminLTE v2](https://adminl
 1. Require the package using composer:
 
     ```
-    composer require jeroennoten/laravel-adminlte
+    composer require mauro-pinheiro/laravel-adminlte:dev-master
     ```
 
 2. Install the package using the command (For fresh laravel installations):
